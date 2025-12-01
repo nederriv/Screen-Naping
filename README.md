@@ -18,7 +18,7 @@
   <li>Configurable auto-start on Windows</li>
 </ul>
 
-<h3>🖥 Server (PC #1 or VPS)</h3>
+<h3>🖥 Server (PC #2 or VPS)</h3>
 <ul>
   <li>Lightweight Flask backend</li>
   <li>Stores Text messages in memory</li>
