@@ -220,7 +220,7 @@ Then run:
 <h2 align="center">⭐ If you like this project, please star the repo!</h2>
 
 # Watch Video For More Information.
-[![YouTube Video](https://img.youtube.com/vi/PwPgaEE14l4/0.jpg)](https://youtu.be/PwPgaEE14l4?feature=shared)
+[![YouTube Video](https://img.youtube.com/vi/OFImjStiDak/0.jpg)](https://youtu.be/OFImjStiDak?feature=shared)
 
 
 # Available Our [Hacking Course](https://linuxndroid.in)
